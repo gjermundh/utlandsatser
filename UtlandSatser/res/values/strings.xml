@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Statens Utlandssatser</string>
+    <string name="menu_settings">Settings</string>
+    <string name="no_network">Ingen dataforbindelse</string>
+    <string name="fetching">Henter data</string>
+    <string name="server_error">Server feil</string>
+    <string name="no_data">Fikk ingen data fra serveren</string>
+    
+    <string-array name="continents_array">
+        <item>Velg verdensdel</item>
+        <item>Europa</item>
+        <item>Amerika</item>
+        <item>Asia</item>
+        <item>Oceania</item>
+        <item>Afrika</item>
+    </string-array>
+
+</resources>
